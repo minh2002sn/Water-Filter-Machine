@@ -1,0 +1,4 @@
+../App/Menu/delete_menu.c:6:6:DELETE_MENU_Init	8	static
+../App/Menu/delete_menu.c:10:6:DELETE_MENU_Set_State	16	static
+../App/Menu/delete_menu.c:16:6:DELETE_MENU_Set_State_Delete	8	static
+../App/Menu/delete_menu.c:24:6:DELETE_MENU_Display	24	static

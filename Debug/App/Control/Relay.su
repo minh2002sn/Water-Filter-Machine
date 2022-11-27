@@ -1,0 +1,4 @@
+../App/Control/Relay.c:20:6:RELAY_Init	8	static
+../App/Control/Relay.c:24:6:RELAY_Set_State	16	static
+../App/Control/Relay.c:28:9:RELAY_Current_Relay_Mask	8	static
+../App/Control/Relay.c:32:6:RELAY_Handle	16	static

@@ -1,0 +1,5 @@
+../App/Control/Control.c:32:13:error_behavior	48	static
+../App/Control/Control.c:62:6:WLS1_Control	32	static
+../App/Control/Control.c:91:6:WLS2_Control	24	static
+../App/Control/Control.c:108:6:CONTRL_Init	8	static
+../App/Control/Control.c:121:6:CONTROL_Handle	8	static

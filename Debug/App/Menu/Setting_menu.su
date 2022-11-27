@@ -1,0 +1,5 @@
+../App/Menu/Setting_menu.c:6:6:SETTING_MENU_Init	8	static
+../App/Menu/Setting_menu.c:10:6:SETTING_MENU_Set_State	32	static
+../App/Menu/Setting_menu.c:20:6:SETTING_MENU_Choose_Setting_State	16	static
+../App/Menu/Setting_menu.c:26:6:SETTING_MENU_Keypad_Input	32	static
+../App/Menu/Setting_menu.c:115:6:SETTING_MENU_Display	8	static

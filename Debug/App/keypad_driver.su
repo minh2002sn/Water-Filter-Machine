@@ -1,0 +1,2 @@
+../App/keypad_driver.c:4:6:KeypadPressingCallback	16	static
+../App/keypad_driver.c:21:6:KEYPAD_DRIVER_Handle	8	static

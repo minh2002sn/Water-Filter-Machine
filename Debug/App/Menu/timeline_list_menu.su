@@ -1,0 +1,5 @@
+../App/Menu/timeline_list_menu.c:22:13:create_day_string	24	static
+../App/Menu/timeline_list_menu.c:35:13:update_time_list	40	static
+../App/Menu/timeline_list_menu.c:44:6:TL_MENU_Init	16	static
+../App/Menu/timeline_list_menu.c:54:6:TL_MENU_Set_State	32	static
+../App/Menu/timeline_list_menu.c:69:6:TL_MENU_Display	24	static

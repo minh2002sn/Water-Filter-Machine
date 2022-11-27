@@ -1,0 +1,3 @@
+../App/Menu/Main_menu.c:8:6:MAIN_MENU_Init	8	static
+../App/Menu/Main_menu.c:12:6:MAIN_MENU_Set_State	8	static
+../App/Menu/Main_menu.c:18:6:MAIN_MENU_Display	16	static

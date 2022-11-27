@@ -1,0 +1,4 @@
+../App/real_time.c:14:6:REALTIME_Init	8	static
+../App/real_time.c:41:6:REALTIME_Handle	8	static
+../App/real_time.c:64:6:REALTIME_Set_New_Realtime	24	static
+../App/real_time.c:76:9:REALTIME_Is_RTC_Connected	8	static

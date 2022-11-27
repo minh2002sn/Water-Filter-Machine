@@ -23,7 +23,17 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c.h \
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h \
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h \
- ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h
+ ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h \
+ D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/Control/Control.h \
+ D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/Menu/Menu.h \
+ D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/Libraries/LCD_I2C.h \
+ D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/Menu/Main_menu.h \
+ D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/Menu/Setting_menu.h \
+ D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/Data/Flash_data.h \
+ D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/real_time.h \
+ D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/Libraries/DS3231.h \
+ D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/keypad_driver.h \
+ D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/Libraries/Keypad.h
 ../Core/Inc/main.h:
 ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h:
 ../Core/Inc/stm32f0xx_hal_conf.h:
@@ -50,3 +60,13 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h:
 ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h:
 ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h:
+D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/Control/Control.h:
+D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/Menu/Menu.h:
+D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/Libraries/LCD_I2C.h:
+D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/Menu/Main_menu.h:
+D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/Menu/Setting_menu.h:
+D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/Data/Flash_data.h:
+D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/real_time.h:
+D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/Libraries/DS3231.h:
+D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/App/keypad_driver.h:
+D:/A_Minh/B_Big\ Projects/Water\ Filter\ Machine/Code/STM_Code/Water_Filter_Machine_1.0/Libraries/Keypad.h:

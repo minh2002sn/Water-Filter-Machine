@@ -1,0 +1,2 @@
+../App/Menu/Menu.c:8:6:MENU_Init	16	static
+../App/Menu/Menu.c:18:6:MENU_Handle	8	static
